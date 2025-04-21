@@ -1,0 +1,15 @@
+
+{
+  "appId": "com.KGPortfolio.app",
+  "appName": "KGPortfolio",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffff",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false
+    }
+  }
+}
